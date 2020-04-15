@@ -8,10 +8,14 @@ Gunsu, you can take the datasets that are called 01_adset.csv until 04_adset.csv
 - Yalim Demirkesen | [linkedin.com/yalimdemirkesen](https://www.linkedin.com/in/yalimdemirkesen/)
 
 ## Problem Statement
+The companies usually spend a big portion of their marketing budget on social media campaigns. This is more convenient because the information is much easier to spread on a social media platform than doing it in a conference, company event or webinar. That's why utilizing social media as the main marketing tool will become more and more popular, which will increase the social media spendings. 
 
+Unfortunately on social media, there is no linear relationship between the money you spent and conversions, likes or impresssions you generate. Whether you get the return of your money completely depends on whether you are reaching out to the right audience on the right time with the right content. For instance the same amount of money spent on completely identical ads on Wednesday and Thursday might result in very different outcomes.
+
+Because of the above listed reasons, the companies who are active on social media **must** use an optimizer to have the highest return of investment. Without using a tool like this, it is very tough to navigate through these platforms. No matter how many years of marketing experience a marketing leader has, data needs to lead the way not the intuition.
 
 ## Objectives
-
+Objective of the 
 
 ## Methodology
 
