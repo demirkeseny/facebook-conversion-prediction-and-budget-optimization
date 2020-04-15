@@ -17,6 +17,7 @@ Gunsu, you can take the datasets that are called 01_adset.csv until 04_adset.csv
 
 
 ## Constraints
+Facebook Ads Manager forces the users to choose one from gender and location or time of the day. If the ad sets are downloaded with gender and location, the highest granularity obtained in the time field is day. If the users pick time of the day which provides hourly distribution of the conversions, the output won't include gender and location. Since gender and location were more important for our goals, we decided to include them instead of the time of the day.
 
 ## Materials
 ### Notebooks 
