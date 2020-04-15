@@ -15,7 +15,7 @@ Unfortunately on social media, there is no linear relationship between the money
 Because of the above listed reasons, the companies who are active on social media **must** use an optimizer to have the highest return of investment. Without using a tool like this, it is very tough to navigate through these platforms. No matter how many years of marketing experience a marketing leader has, data needs to lead the way not the intuition.
 
 ## Objectives
-Objective of the 
+
 
 ## Methodology
 
