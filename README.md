@@ -3,7 +3,6 @@
 ## Deadline: 04/19/2020 5:00 pm
 
 ## Authors
-- Gunsu Altindag | []() 
 - Yalim Demirkesen | [linkedin.com/yalimdemirkesen](https://www.linkedin.com/in/yalimdemirkesen/)
 
 ## Problem Statement
