@@ -1,5 +1,8 @@
 # Facebook Campaign Budget Optimizer
 
+**Trello Board:** https://trello.com/b/46WSwmac/facebook-optimizer
+**Google Drive:** https://drive.google.com/drive/u/0/folders/1hptd9t5IOvPQc6XpH0EluX5Vj89N9erz
+
 ## Problem Statement
 The companies usually spend a big portion of their marketing budget on social media campaigns. This is more convenient because the information is much easier to spread on a social media platform than doing it in a conference, company event or webinar. That's why utilizing social media as the main marketing tool will become more and more popular, which will increase the social media spendings. 
 
