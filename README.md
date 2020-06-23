@@ -1,4 +1,4 @@
-# BELOW PROJECT IS WIP. WHEN COMPLETED, IT WILL BE PUBLISHED!
+# BELOW PROJECT IS WIP. WHEN COMPLETED, IT WILL BE PUBLISHED
 # Facebook Campaign Budget Optimizer
 
 **Trello Board:** https://trello.com/b/46WSwmac/facebook-optimizer <br>
