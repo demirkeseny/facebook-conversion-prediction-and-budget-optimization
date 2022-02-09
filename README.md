@@ -1,8 +1,4 @@
-# BELOW PROJECT IS WIP. WHEN COMPLETED, IT WILL BE PUBLISHED
 # Facebook Campaign Budget Optimizer
-
-**Trello Board:** https://trello.com/b/46WSwmac/facebook-optimizer <br>
-**Google Drive:** https://drive.google.com/drive/u/0/folders/1hptd9t5IOvPQc6XpH0EluX5Vj89N9erz
 
 ## Problem Statement
 The companies usually spend a big portion of their marketing budget on social media campaigns. This is more convenient because the information is much easier to spread on a social media platform than doing it in a conference, company event or webinar. That's why utilizing social media as the main marketing tool will become more and more popular, which will increase the social media spendings. 
@@ -40,24 +36,3 @@ Facebook Ads Manager forces the users to choose one from gender and location or 
 Since the data is more than 25 MB, it is uploaded in 4 segments. The files are called: *01_adset.csv*, *02_adset.csv*, *03_adset.csv* and *04_adset.csv*. 
 
 Before the upload, the actual numbers are changed. It is not a real data set and cannot be associated with any person/company/association. 
-
-
-
-### Dashboard
-
-
-
-
-## Implementation
-
-
-
-## Future Developments
-
-
-
-
-
-## References
-
-
